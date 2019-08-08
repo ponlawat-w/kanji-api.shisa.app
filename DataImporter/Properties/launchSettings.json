@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataImporter": {
+      "commandName": "Project",
+      "commandLineArgs": "--skip-file"
+    }
+  }
+}
